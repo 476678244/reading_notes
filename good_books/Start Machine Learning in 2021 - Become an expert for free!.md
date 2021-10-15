@@ -1,6 +1,8 @@
 [Start Machine Learning in 2021 - Become an expert for free!](https://github.com/louisfb01/start-machine-learning)
 >A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 
+[中文介绍](https://www.jiqizhixin.com/articles/2021-09-22-5)
+
 ## Table of Contents
 
 - [Start with short YouTube video introductions](https://github.com/louisfb01/start-machine-learning#YouTubeVideos)
