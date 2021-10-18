@@ -4,7 +4,7 @@
 
 ## Spark
 
-[Spark Internals](https://github.com/JerryLead/SparkInternals)
+[Spark Internals](https://github.com/JerryLead/SparkInternals) [Gitbook Version](https://mallikarjuna_g.gitbooks.io/sparkinternals/content/)
 1. [Overview](https://github.com/JerryLead/SparkInternals/blob/master/EnglishVersion/1-Overview.md) Overview of Apache Spark
 2. [Job logical plan](https://github.com/JerryLead/SparkInternals/blob/master/EnglishVersion/2-JobLogicalPlan.md) Logical plan of a job (data dependency graph)
 3. [Job physical plan](https://github.com/JerryLead/SparkInternals/blob/master/EnglishVersion/3-JobPhysicalPlan.md) Physical plan
