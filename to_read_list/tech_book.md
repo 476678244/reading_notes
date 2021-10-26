@@ -1,3 +1,6 @@
+[hacker-laws](https://github.com/nusr/hacker-laws-zh)
+>当人们谈论开发时，会聊到许多定律。这个仓库收录了一些最常见的定律。
+
 ## K8s
 
 [《Kubernetes 加固指南》中文版](https://jimmysong.io/kubernetes-hardening-guidance/)
