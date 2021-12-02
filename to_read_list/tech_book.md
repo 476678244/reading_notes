@@ -30,3 +30,7 @@
 - [聊聊并发（八）Fork/Join框架介绍](http://ifeve.com/talk-concurrency-forkjoin/)
 - [聊聊并发（九）Java中的CopyOnWrite容器](http://ifeve.com/java-copy-on-write/)
 - [聊聊并发（十）生产者消费者模式](http://ifeve.com/producers-and-consumers-mode/)
+
+## Python
+
+[『Python 工匠』](https://github.com/piglei/one-python-craftsman)
