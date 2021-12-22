@@ -34,3 +34,7 @@
 ## Python
 
 [『Python 工匠』](https://github.com/piglei/one-python-craftsman)
+
+## Kafka
+
+[apache kafka技术分享系列](https://blog.csdn.net/lizhitao/article/details/39499283)
