@@ -5,159 +5,163 @@
 </head>
 <body>
 <outline title="a.每日阅读" text="a.每日阅读">
-<outline title="e_月光博客" xmlUrl="http://feed.williamlong.info/" type="rss" htmlUrl="http://www.williamlong.info/" text="e_月光博客" />
-<outline htmlUrl="http://cn.wsj.com/" type="rss" text="a_要闻--华尔街日报" xmlUrl="https://cn.wsj.com/zh-hans/rss" title="a_要闻--华尔街日报" />
-<outline xmlUrl="http://www.pingwest.com/feed/" title="a_PingWest中文网" text="a_PingWest中文网" type="rss" htmlUrl="http://www.pingwest.com/" />
-<outline xmlUrl="http://feeds.feedburner.com/nytcn" title="c_纽约时报中文网" text="c_纽约时报中文网" htmlUrl="http://cn.nytimes.com/" type="rss" />
-<outline type="rss" title="DoNews原创内容" htmlUrl="http://www.donews.com/original" xmlUrl="http://rss.donews.com/news/original" text="DoNews原创内容" />
-<outline type="rss" htmlUrl="http://www.dw.com/chinese/?maca=chi-GK-Inoreader-Chinese-21711-xml-media" xmlUrl="http://inoreader-dw/GK-Inoreader-Chinese.21711-media" title="b_DW | 中文" text="b_DW | 中文" />
-<outline type="rss" text="appSo" title="appSo" htmlUrl="http://www.ifanr.com/coolbuy/app/category/intelligentcar/category/ifanrnews/category/life/app/category/ifanrnews/coolbuy/category/life/category/intelligentcar/app/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/app/category/life/category/intelligentcar/category/ifanrnews/coolbuy/app/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/app/app/app/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/app/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/app/category/ifanrnews/coolbuy/category/life/category/intelligentcar/app/app/app" xmlUrl="https://rsshub.app/ifanr/app" />
-<outline text="f_最近 Live  - 后续 App" title="f_最近 Live  - 后续 App" type="rss" xmlUrl="https://rsshub.app/houxu/lives/new" htmlUrl="https://houxu.app/lives/new" />
-<outline title="f.韩国中央日报" htmlUrl="https://chinese.joins.com/" text="f.韩国中央日报" type="rss" xmlUrl="https://feedx.net/rss/joins.xml" />
-<outline htmlUrl="https://beta.sspai.com/tag/apple" xmlUrl="https://rsshub.app/sspai/tag/apple" type="rss" text="#apple - 少数派" title="#apple - 少数派" />
-<outline htmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL6CKi2qqiZRl2o-MYreDGvH9MxhdyDhYM" xmlUrl="https://www.youtube.com/feeds/videos.xml?playlist_id=PL6CKi2qqiZRl2o-MYreDGvH9MxhdyDhYM" title="会员专享视频" text="会员专享视频" type="rss" />
-<outline title="a_上海本地宝焦点资讯" text="a_上海本地宝焦点资讯" xmlUrl="https://rsshub.app/bendibao/news/sh" type="rss" htmlUrl="http://sh.bendibao.com/" />
+<outline type="rss" htmlUrl="http://www.solidot.org/" title="Solidot" xmlUrl="http://feeds.feedburner.com/solidot" text="Solidot" />
+<outline htmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" title="TechWeb 每日热点推荐 RSS阅读" text="TechWeb 每日热点推荐 RSS阅读" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" type="rss" />
+<outline type="rss" htmlUrl="http://www.williamlong.info/" title="e_月光博客" text="e_月光博客" xmlUrl="http://feed.williamlong.info/" />
+<outline title="a_要闻--华尔街日报" htmlUrl="http://cn.wsj.com/" xmlUrl="https://cn.wsj.com/zh-hans/rss" type="rss" text="a_要闻--华尔街日报" />
+<outline htmlUrl="http://www.pingwest.com/" xmlUrl="http://www.pingwest.com/feed/" title="a_PingWest中文网" text="a_PingWest中文网" type="rss" />
+<outline xmlUrl="http://rss.donews.com/news/original" htmlUrl="http://www.donews.com/original" text="DoNews原创内容" type="rss" title="DoNews原创内容" />
+<outline type="rss" htmlUrl="http://shanghai.metrofans.cn/forum-328-1.html" title="上海轨道交通俱乐部 - 周浦康桥航头新场论坛" text="上海轨道交通俱乐部 - 周浦康桥航头新场论坛" xmlUrl="http://shanghai.metrofans.cn/forum.php?mod=rss&amp;fid=328&amp;auth=0" />
+<outline text="b_DW | 中文" type="rss" htmlUrl="http://www.dw.com/chinese/?maca=chi-GK-Inoreader-Chinese-21711-xml-media" title="b_DW | 中文" xmlUrl="http://inoreader-dw/GK-Inoreader-Chinese.21711-media" />
+<outline xmlUrl="https://dedicated.wallstreetcn.com/rss.xml" type="rss" title="华尔街见闻" text="华尔街见闻" htmlUrl="http://wallstreetcn.com/" />
+<outline text="路透中文" xmlUrl="https://feedx.net/rss/reuters.xml" type="rss" htmlUrl="https://feedx.net/rss/reuters.xml" title="路透中文" />
+<outline type="rss" htmlUrl="http://www.ifanr.com/coolbuy/app/category/intelligentcar/category/ifanrnews/category/life/app/category/ifanrnews/coolbuy/category/life/category/intelligentcar/app/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/app/category/life/category/intelligentcar/category/ifanrnews/coolbuy/app/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/app/app/app/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/app/category/intelligentcar/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/app/category/ifanrnews/coolbuy/category/life/app/category/intelligentcar/app/category/ifanrnews/coolbuy/category/life/category/intelligentcar/app/app/app" xmlUrl="https://rsshub.app/ifanr/app" text="appSo" title="appSo" />
+<outline type="rss" title="韩国中央日报" htmlUrl="https://chinese.joins.com/" xmlUrl="https://feedx.net/rss/joins.xml" text="韩国中央日报" />
+<outline xmlUrl="https://rsshub.app/bendibao/news/sh" type="rss" title="a_上海本地宝焦点资讯" htmlUrl="http://sh.bendibao.com/" text="a_上海本地宝焦点资讯" />
 </outline>
 <outline title="b.精选" text="b.精选">
-<outline xmlUrl="http://cn.engadget.com/rss.xml" text="a_Engadget 中国版" type="rss" title="a_Engadget 中国版" htmlUrl="http://cn.engadget.com/" />
-<outline title="a_FT_金融时报" type="rss" htmlUrl="http://www.ftchinese.com/" xmlUrl="http://www.ftchinese.com/rss/feed" text="a_FT_金融时报" />
-<outline title="b_爱范儿 · Beats of Bits" text="b_爱范儿 · Beats of Bits" htmlUrl="http://www.ifanr.com/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" xmlUrl="http://www.ifanr.com/feed" type="rss" />
-<outline type="rss" text="TechWeb 每日热点推荐 RSS阅读" title="TechWeb 每日热点推荐 RSS阅读" htmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" xmlUrl="http://www.techweb.com.cn/rss/hotnews.xml" />
-<outline title="编程随想的博客" htmlUrl="http://program-think.blogspot.com/" type="rss" text="编程随想的博客" xmlUrl="http://feeds2.feedburner.com/programthink" />
-<outline type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng" title="阮一峰的网络日志" text="阮一峰的网络日志" htmlUrl="http://www.ruanyifeng.com/blog/" />
-<outline text="f_Linux中国 - 我们的Linux中文社区" htmlUrl="http://linux.cn/" xmlUrl="https://linux.cn/rss.xml" title="f_Linux中国 - 我们的Linux中文社区" type="rss" />
-<outline type="rss" title="b_日经中文网--日本经济新闻中文版" text="b_日经中文网--日本经济新闻中文版" htmlUrl="http://cn.nikkei.com/" xmlUrl="http://cn.nikkei.com/rss.html" />
-<outline text="z_理想生活实验室" title="z_理想生活实验室" htmlUrl="http://www.toodaylab.com/" type="rss" xmlUrl="http://www.toodaylab.com/feed" />
-<outline type="rss" text="e_Chiphell - 汽车Show" title="e_Chiphell - 汽车Show" htmlUrl="http://www.chiphell.com/forum-175-1.html" xmlUrl="http://www.chiphell.com/forum.php?mod=rss&amp;fid=175&amp;auth=0" />
-<outline title="耳机俱乐部小白的BLOG" xmlUrl="http://blog.sina.com.cn/rss/1311376432.xml" type="rss" text="耳机俱乐部小白的BLOG" htmlUrl="http://blog.sina.com.cn/headphoneclub" />
-<outline htmlUrl="http://livesino.net/" text="z_LiveSino 中文版" type="rss" xmlUrl="http://livesino.net/feed" title="z_LiveSino 中文版" />
-<outline title="e_Chiphell - 业界新闻" htmlUrl="http://www.chiphell.com/forum-80-1.html" text="e_Chiphell - 业界新闻" type="rss" xmlUrl="http://www.chiphell.com/forum.php?mod=rss&amp;fid=80&amp;auth=0" />
-<outline xmlUrl="http://www.chiphell.com/portal.php?mod=rss&amp;catid=71" text="Chiphell - 耳机耳放" htmlUrl="http://www.chiphell.com/portal.php?mod=list&amp;catid=71" title="Chiphell - 耳机耳放" type="rss" />
-<outline htmlUrl="http://www.topgear.com.cn/" text="TopGear 汽车测试报告" title="TopGear 汽车测试报告" type="rss" xmlUrl="http://www.topgear.com.cn/?feed=rss2" />
-<outline type="rss" htmlUrl="http://www.zhidx.com/feed" text="智东西｜智能硬件第一媒体" xmlUrl="http://www.zhidx.com/feed" title="智东西｜智能硬件第一媒体" />
-<outline xmlUrl="https://towardsdatascience.com/feed" title="Towards Data Science - Medium" text="Towards Data Science - Medium" type="rss" htmlUrl="https://towardsdatascience.com/?source=rss----7f60cf5620c9---4" />
-<outline title="超能网" type="rss" text="超能网" htmlUrl="http://www.expreview.com/" xmlUrl="https://www.expreview.com/rss.php" />
-<outline type="rss" htmlUrl="https://m.whalegogo.com/index" text="c_鲸跃汽车" xmlUrl="https://rsshub.app/whalegogo/home" title="c_鲸跃汽车" />
-<outline type="rss" title="InfoQ推荐" text="InfoQ推荐" htmlUrl="https://www.infoq.cn/" xmlUrl="https://rsshub.app/infoq/recommend" />
-<outline xmlUrl="https://www.qbitai.com/feed" type="rss" htmlUrl="https://www.qbitai.com/" text="量子位" title="量子位" />
-<outline text="汽车志" htmlUrl="http://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YzZmMThkZDQ5N2ZmNDdhYzgyZmE2ZTMiLCJ2ZXJzaW9uIjoidjEifQ.fAFtiFxOKkb2U0svhUw2pOXWTI2wInsx5hGa8ec_bP4" type="rss" xmlUrl="https://qnmlgb.tech/v1/publicrss?i=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdXRob3JfaWQiOiI1YzZmMThkZDQ5N2ZmNDdhYzgyZmE2ZTMiLCJ2ZXJzaW9uIjoidjEifQ.fAFtiFxOKkb2U0svhUw2pOXWTI2wInsx5hGa8ec_bP4" title="汽车志" />
-<outline htmlUrl="https://weexcn.com/news/newest" xmlUrl="https://rsshub.app/weexcn/news/1" text="c_WEEX--华尔街见闻旗下全球投资线上品牌" type="rss" title="c_WEEX--华尔街见闻旗下全球投资线上品牌" />
-<outline type="rss" xmlUrl="https://rsshub.app/mittrchina/article" text="e_MIT科技评论" htmlUrl="http://www.mittrchina.com/" title="e_MIT科技评论" />
-<outline title="a_体育_界面新闻" type="rss" htmlUrl="https://a.jiemian.com/index.php?m=lists&amp;a=ajaxNews&amp;cid=82&amp;page=1" text="a_体育_界面新闻" xmlUrl="https://rsshub.app/jiemian/list/82" />
+<outline xmlUrl="http://www.ifanr.com/feed" title="b_爱范儿 · Beats of Bits" type="rss" htmlUrl="http://www.ifanr.com/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=" text="b_爱范儿 · Beats of Bits" />
+<outline title="编程随想的博客" htmlUrl="http://program-think.blogspot.com/" text="编程随想的博客" xmlUrl="http://feeds2.feedburner.com/programthink" type="rss" />
+<outline title="阮一峰的网络日志" text="阮一峰的网络日志" htmlUrl="http://www.ruanyifeng.com/blog/" xmlUrl="http://feeds.feedburner.com/ruanyifeng" type="rss" />
+<outline text="f_Linux中国 - 我们的Linux中文社区" type="rss" title="f_Linux中国 - 我们的Linux中文社区" htmlUrl="http://linux.cn/" xmlUrl="https://linux.cn/rss.xml" />
+<outline xmlUrl="http://cn.nikkei.com/rss.html" text="b_日经中文网--日本经济新闻中文版" type="rss" title="b_日经中文网--日本经济新闻中文版" htmlUrl="http://cn.nikkei.com/" />
+<outline text="z_理想生活实验室" xmlUrl="http://www.toodaylab.com/feed" htmlUrl="http://www.toodaylab.com/" type="rss" title="z_理想生活实验室" />
+<outline text="e_Chiphell - 汽车Show" xmlUrl="http://www.chiphell.com/forum.php?mod=rss&amp;fid=175&amp;auth=0" title="e_Chiphell - 汽车Show" type="rss" htmlUrl="http://www.chiphell.com/forum-175-1.html" />
+<outline htmlUrl="http://blog.sina.com.cn/headphoneclub" text="耳机俱乐部小白的BLOG" type="rss" title="耳机俱乐部小白的BLOG" xmlUrl="http://blog.sina.com.cn/rss/1311376432.xml" />
+<outline title="z_LiveSino 中文版" type="rss" text="z_LiveSino 中文版" htmlUrl="http://livesino.net/" xmlUrl="http://livesino.net/feed" />
+<outline type="rss" text="e_Chiphell - 业界新闻" title="e_Chiphell - 业界新闻" htmlUrl="http://www.chiphell.com/forum-80-1.html" xmlUrl="http://www.chiphell.com/forum.php?mod=rss&amp;fid=80&amp;auth=0" />
+<outline xmlUrl="http://www.chiphell.com/portal.php?mod=rss&amp;catid=71" text="Chiphell - 耳机耳放" type="rss" htmlUrl="http://www.chiphell.com/portal.php?mod=list&amp;catid=71" title="Chiphell - 耳机耳放" />
+<outline type="rss" xmlUrl="https://www.v2ex.com/feed/tab/creative.xml" text="V2EX - 创意" title="V2EX - 创意" htmlUrl="https://www.v2ex.com/" />
+<outline title="开源中国社区最新新闻" xmlUrl="https://www.oschina.net/news/rss" text="开源中国社区最新新闻" htmlUrl="https://www.oschina.net/?from=rss" type="rss" />
+<outline type="rss" xmlUrl="http://www.zhidx.com/feed" text="智东西｜智能硬件第一媒体" title="智东西｜智能硬件第一媒体" htmlUrl="http://www.zhidx.com/feed" />
+<outline htmlUrl="http://www.expreview.com/" text="超能网" type="rss" title="超能网" xmlUrl="https://www.expreview.com/rss.php" />
+<outline title="掘金人工智能" xmlUrl="https://rsshub.app/juejin/category/ai" htmlUrl="https://juejin.im/welcome/ai" type="rss" text="掘金人工智能" />
+<outline title="腾讯CDC" type="rss" htmlUrl="https://cdc.tencent.com/" text="腾讯CDC" xmlUrl="https://cdc.tencent.com/feed/" />
+<outline text="InfoQ推荐" title="InfoQ推荐" type="rss" htmlUrl="https://www.infoq.cn/" xmlUrl="https://rsshub.app/infoq/recommend" />
+<outline htmlUrl="https://www.qbitai.com/" xmlUrl="https://www.qbitai.com/feed" type="rss" text="量子位" title="量子位" />
+<outline xmlUrl="https://autonode.cn/feed/" text="AutoNode" type="rss" title="AutoNode" htmlUrl="https://autonode.cn/" />
+<outline type="rss" xmlUrl="https://rsshub.app/baijing" text="白鲸出海" title="白鲸出海" htmlUrl="https://docs.rsshub.app/" />
+<outline text="汽车_界面新闻" title="汽车_界面新闻" type="rss" htmlUrl="https://www.jiemian.com/lists/51.html" xmlUrl="https://rsshub.app/jiemian/list/51" />
+<outline title="RSSHub 有新路由啦" htmlUrl="https://docs.rsshub.app/" text="RSSHub 有新路由啦" xmlUrl="https://rsshub.app/rsshub/routes" type="rss" />
+<outline text="a_体育_界面新闻" htmlUrl="https://a.jiemian.com/index.php?m=lists&amp;a=ajaxNews&amp;cid=82&amp;page=1" type="rss" xmlUrl="https://rsshub.app/jiemian/list/82" title="a_体育_界面新闻" />
+<outline text="财联社 - 地产" title="财联社 - 地产" htmlUrl="https://www.cls.cn/telegraph" xmlUrl="https://rsshub.app/cls/depth/1006" type="rss" />
 </outline>
 <outline title="c.数码科技" text="c.数码科技">
-<outline xmlUrl="http://www.macrumors.com/macrumors.xml" htmlUrl="http://www.macrumors.com/" type="rss" title="MacRumors: Mac News and Rumors - Front Page" text="MacRumors: Mac News and Rumors - Front Page" />
-<outline type="rss" text="電腦玩物" title="電腦玩物" htmlUrl="http://www.playpcesor.com/" xmlUrl="http://feeds.feedburner.com/playpc" />
-<outline xmlUrl="http://www.geekpark.net/rss" htmlUrl="http://www.geekpark.net/" title="f_极客公园-GeekPark" type="rss" text="f_极客公园-GeekPark" />
-<outline htmlUrl="http://www.mobile01.com/topiclist.php?f=339" type="rss" title="Mobile01 - 小惡魔的動力研究室 - Volvo最新文章" xmlUrl="http://www.mobile01.com/rss/topiclist339.xml" text="Mobile01 - 小惡魔的動力研究室 - Volvo最新文章" />
-<outline htmlUrl="http://www.autoblog.com/" xmlUrl="http://www.autoblog.com/category/volvo/rss.xml" type="rss" text="Autoblog Volvo" title="Autoblog Volvo" />
-<outline htmlUrl="http://geekcar.com/" xmlUrl="http://geekcar.com/feed" title="GeekCar" type="rss" text="GeekCar" />
-<outline type="rss" title="少数派" xmlUrl="https://sspai.com/feed" text="少数派" htmlUrl="http://sspai.com/feed" />
-<outline text="机器之心" htmlUrl="https://www.jiqizhixin.com/" xmlUrl="https://jiqizhixin.com/rss" title="机器之心" type="rss" />
-<outline title="RSSHub 少数派" type="rss" xmlUrl="https://rsshub.app/sspai/matrix" text="RSSHub 少数派" htmlUrl="https://github.com/DIYgod/RSSHub" />
-<outline type="rss" title="Mac派" text="Mac派" xmlUrl="https://macpai.cn/rss/" htmlUrl="https://macpai.cn/" />
-<outline type="rss" xmlUrl="https://rsshub.app/sspai/tag/apple" text="#apple - 少数派" htmlUrl="https://beta.sspai.com/tag/apple" title="#apple - 少数派" />
-<outline title="汽车_界面新闻" text="汽车_界面新闻" type="rss" htmlUrl="https://www.jiemian.com/lists/51.html" xmlUrl="https://rsshub.app/jiemian/list/51" />
+<outline type="rss" title="f_极客公园-GeekPark" htmlUrl="http://www.geekpark.net/" text="f_极客公园-GeekPark" xmlUrl="http://www.geekpark.net/rss" />
+<outline htmlUrl="http://www.waerfa.com/" type="rss" text="Mac玩儿法" xmlUrl="http://www.waerfa.com/feed" title="Mac玩儿法" />
+<outline text="GeekCar" title="GeekCar" htmlUrl="http://geekcar.com/" type="rss" xmlUrl="http://geekcar.com/feed" />
+<outline htmlUrl="http://sspai.com/feed" title="少数派" text="少数派" xmlUrl="https://sspai.com/feed" type="rss" />
+<outline type="rss" text="Engadget 中文版 RSS Feed" title="Engadget 中文版 RSS Feed" xmlUrl="https://chinese.engadget.com/rss.xml" htmlUrl="https://chinese.engadget.com/rss.xml" />
+<outline title="机器之心" text="机器之心" type="rss" htmlUrl="https://www.jiqizhixin.com/" xmlUrl="https://jiqizhixin.com/rss" />
+<outline htmlUrl="https://github.com/DIYgod/RSSHub" text="RSSHub 少数派" xmlUrl="https://rsshub.app/sspai/matrix" type="rss" title="RSSHub 少数派" />
+<outline title="文章 | 不止是游戏 | 机核" text="文章 | 不止是游戏 | 机核" xmlUrl="https://rsshub.app/gcores/category/articles" type="rss" htmlUrl="https://www.gcores.com/articles" />
+<outline htmlUrl="http://www.mac52ipod.cn/index.php" xmlUrl="https://www.mac52ipod.cn/feed.php" text="苹果fans博客" type="rss" title="苹果fans博客" />
+<outline htmlUrl="https://36kr.com/information/web_recommend" type="rss" text="36氪资讯 - 推荐" title="36氪资讯 - 推荐" xmlUrl="https://rsshub.app/36kr/news/recommend" />
 </outline>
-<outline title="cc.文艺" text="cc.文艺">
-<outline xmlUrl="http://colachan.com/feed" title="可乐橙" type="rss" text="可乐橙" htmlUrl="http://colachan.com/" />
-<outline type="rss" text="浮白载笔" htmlUrl="http://www.winature.com/" xmlUrl="http://www.winature.com/?feed=rss2" title="浮白载笔" />
-<outline htmlUrl="https://hisherry.com/" title="燕渡寒潭" type="rss" text="燕渡寒潭" xmlUrl="https://hisherry.com/feed/" />
-<outline text="喂马劈柴" htmlUrl="https://blog.shaoxiao.net/" title="喂马劈柴" type="rss" xmlUrl="https://blog.shaoxiao.net/feed/" />
-</outline>
-<outline title="d.播客" text="d.播客">
-<outline text="机核网 GADIO 游戏广播" htmlUrl="http://feed.tangsuanradio.com/gadio.xml" xmlUrl="http://feed.tangsuanradio.com/gadio.xml" type="rss" title="机核网 GADIO 游戏广播" />
-<outline text="北槽" title="北槽" type="rss" htmlUrl="http://www.lizhi.fm/" xmlUrl="http://rss.lizhi.fm/rss/30118.xml" />
-<outline type="rss" title="Left-Right" xmlUrl="https://justpodmedia.com/rss/left-right.xml" htmlUrl="https://justpodmedia.com/" text="Left-Right" />
-<outline type="rss" text="无奇NoWonder" title="无奇NoWonder" xmlUrl="https://nowonder.typlog.io/episodes/feed.xml" htmlUrl="https://castro.fm/podcast/154fdfc2-a31d-4c6e-96a7-b72ea1020804" />
+<outline text="cc.文艺" title="cc.文艺">
+<outline text="土木坛子" title="土木坛子" type="rss" xmlUrl="https://tumutanzi.com/feed" htmlUrl="https://tumutanzi.com/" />
+<outline text="财新博客-新世纪的常识传播者-财新网»汪丁丁" type="rss" title="财新博客-新世纪的常识传播者-财新网»汪丁丁" htmlUrl="http://wangdingding.blog.caixin.com/" xmlUrl="http://wangdingding.blog.caixin.com/feed" />
+<outline text="浮白载笔" title="浮白载笔" type="rss" htmlUrl="http://www.winature.com/" xmlUrl="http://www.winature.com/?feed=rss2" />
+<outline text="燕渡寒潭" htmlUrl="https://hisherry.com/" type="rss" xmlUrl="https://hisherry.com/feed/" title="燕渡寒潭" />
+<outline htmlUrl="https://www.bmpi.dev" title="构建我的被动收入" xmlUrl="https://www.bmpi.dev/index.xml" type="rss" text="构建我的被动收入" />
+<outline xmlUrl="https://rsshub.app/sspai/author/7qhn3u51" text="孟岩 - 少数派作者" type="rss" title="孟岩 - 少数派作者" htmlUrl="https://sspai.com/u/7qhn3u51/posts" />
+<outline title="陈东泽（Eurychen）记录成长" xmlUrl="https://eurychen.me/index.xml" type="rss" text="陈东泽（Eurychen）记录成长" htmlUrl="https://eurychen.me/" />
+<outline xmlUrl="https://blog.shaoxiao.net/feed/" title="喂马劈柴" htmlUrl="https://blog.shaoxiao.net/" type="rss" text="喂马劈柴" />
+<outline text="Shilicon 老石谈芯" htmlUrl="https://shilicon.com/" title="Shilicon 老石谈芯" xmlUrl="https://shilicon.com/feed" type="rss" />
+<outline text="科学网—博客—精选博文" xmlUrl="https://rsshub.app/sciencenet/blog/recommend" title="科学网—博客—精选博文" htmlUrl="http://blog.sciencenet.cn/blog.php?mod=recommend&amp;type=list&amp;op=5&amp;ord=1" type="rss" />
+<outline type="rss" xmlUrl="https://writingisleading.com/feed/" htmlUrl="https://writingisleading.com/" title="Writing Is Leading" text="Writing Is Leading" />
+<outline htmlUrl="http://www.aisixiang.com/" title="爱思想头条" text="爱思想头条" type="rss" xmlUrl="https://www.aisixiang.com/rss.php?type=1" />
 </outline>
 <outline text="e.技术" title="e.技术">
-<outline xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn/" text="酷 壳 - CoolShell.cn" type="rss" title="酷 壳 - CoolShell.cn" />
-<outline type="rss" xmlUrl="https://sparkhub.databricks.com/news/feed/" htmlUrl="https://sparkhub.databricks.com/" title="SparkHub » Spark News | A Community Site for Apache Spark" text="SparkHub » Spark News | A Community Site for Apache Spark" />
-<outline text="FlyML" xmlUrl="http://www.flyml.net/feed/" type="rss" title="FlyML" htmlUrl="http://www.flyml.net/" />
-<outline type="rss" xmlUrl="https://databricks.com/blog/category/engineering/spark/feed" title="Apache Spark – Databricks" text="Apache Spark – Databricks" htmlUrl="https://databricks.com" />
-<outline type="rss" xmlUrl="https://draveness.me/feed.xml" title="面向信仰编程 - Articles" text="面向信仰编程 - Articles" htmlUrl="https://draveness.me/" />
-<outline title="Packt Hub" htmlUrl="https://hub.packtpub.com/" type="rss" xmlUrl="https://hub.packtpub.com/feed/" text="Packt Hub" />
-<outline type="rss" xmlUrl="https://tech.meituan.com/feed/" title="美团技术团队" htmlUrl="https://tech.meituan.com/feed/" text="美团技术团队" />
-<outline type="rss" htmlUrl="https://lichuang.github.io/" title="codedump" text="codedump" xmlUrl="https://www.codedump.info/index.xml" />
-<outline type="rss" title="CloudZone - Medium" xmlUrl="https://medium.com/feed/cloudzone" text="CloudZone - Medium" htmlUrl="https://medium.com/cloudzone?source=rss----aa5ed5e3f825---4" />
-<outline text="博客园_fxjwind" htmlUrl="https://www.cnblogs.com/fxjwind/rss" title="博客园_fxjwind" xmlUrl="https://www.cnblogs.com/fxjwind/rss" type="rss" />
-<outline type="rss" title="HPE Ezmeral: Uncut articles" htmlUrl="https://community.hpe.com/t5/hpe-ezmeral-uncut/bg-p/software" text="HPE Ezmeral: Uncut articles" xmlUrl="https://community.hpe.com/hpeb/rss/board?board.id=software" />
-<outline title="InfoQ - Apache Spark - News" text="InfoQ - Apache Spark - News" xmlUrl="https://feed.infoq.com/Apache_Spark/news/" type="rss" htmlUrl="https://www.infoq.com/" />
-<outline type="rss" xmlUrl="http://www.infoworld.com/category/spark/index.rss" htmlUrl="https://www.infoworld.com/" title="InfoWorld Spark" text="InfoWorld Spark" />
+<outline type="rss" htmlUrl="http://coolshell.cn/" xmlUrl="http://coolshell.cn/feed" text="酷 壳 - CoolShell.cn" title="酷 壳 - CoolShell.cn" />
+<outline type="rss" text="Javalobby - The heart of the Java developer community" xmlUrl="http://feeds.dzone.com/javalobby/frontpage" title="Javalobby - The heart of the Java developer community" htmlUrl="http://java.dzone.com/" />
+<outline xmlUrl="https://laike9m.com/blog/rss/" text="laike9m's blog" title="laike9m's blog" type="rss" htmlUrl="https://laike9m.com/blog/rss" />
+<outline type="rss" xmlUrl="https://segmentfault.com/feeds/blogs" title="SegmentFault 最新的文章" htmlUrl="https://segmentfault.com/blogs" text="SegmentFault 最新的文章" />
+<outline text="Flink Blog Feed" type="rss" xmlUrl="https://flink.apache.org/blog/feed.xml" title="Flink Blog Feed" htmlUrl="http://flink.apache.org/blog" />
+<outline title="Engineering Blog – Databricks" htmlUrl="https://databricks.com/" type="rss" xmlUrl="https://databricks.com/blog/category/engineering/feed" text="Engineering Blog – Databricks" />
+<outline title="FlyML" text="FlyML" type="rss" xmlUrl="http://www.flyml.net/feed/" htmlUrl="http://www.flyml.net/" />
+<outline type="rss" htmlUrl="https://databricks.com" title="Apache Spark – Databricks" text="Apache Spark – Databricks" xmlUrl="https://databricks.com/blog/category/engineering/spark/feed" />
+<outline xmlUrl="https://www.kawabangga.com/feed" type="rss" text="卡瓦邦噶！" title="卡瓦邦噶！" htmlUrl="https://www.kawabangga.com/" />
+<outline xmlUrl="http://matt33.com/atom.xml" text="Matt's Blog" title="Matt's Blog" type="rss" htmlUrl="http://wangzzu.github.io/" />
+<outline text="面向信仰编程 - Articles" title="面向信仰编程 - Articles" htmlUrl="https://draveness.me/" xmlUrl="https://draveness.me/feed.xml" type="rss" />
+<outline title="斑斓" htmlUrl="http://zhangyi.xyz/" xmlUrl="http://zhangyi.xyz/atom.xml" text="斑斓" type="rss" />
+<outline text="掘金后端" type="rss" xmlUrl="https://rsshub.app/juejin/category/backend" title="掘金后端" htmlUrl="https://juejin.im/welcome/backend" />
+<outline xmlUrl="https://tech.meituan.com/feed/" text="美团技术团队" htmlUrl="https://tech.meituan.com/feed/" type="rss" title="美团技术团队" />
+<outline title="codedump" htmlUrl="https://lichuang.github.io/" xmlUrl="https://www.codedump.info/index.xml" text="codedump" type="rss" />
+<outline text="掘金代码人生" type="rss" xmlUrl="https://rsshub.app/juejin/category/career" htmlUrl="https://juejin.im/welcome/career" title="掘金代码人生" />
+<outline htmlUrl="https://medium.com/cloudzone?source=rss----aa5ed5e3f825---4" type="rss" title="CloudZone - Medium" text="CloudZone - Medium" xmlUrl="https://medium.com/feed/cloudzone" />
+<outline htmlUrl="https://community.hpe.com/t5/hpe-ezmeral-uncut/bg-p/software" title="HPE Ezmeral: Uncut articles" type="rss" text="HPE Ezmeral: Uncut articles" xmlUrl="https://community.hpe.com/hpeb/rss/board?board.id=software" />
+<outline htmlUrl="https://blog.csdn.net/DiDi_Tech" xmlUrl="https://blog.csdn.net/DiDi_Tech/rss/list" title="DiDi_Tech的博客" text="DiDi_Tech的博客" type="rss" />
+<outline title="博客园_怕什么真理无穷，进一寸有一寸的欢喜" text="博客园_怕什么真理无穷，进一寸有一寸的欢喜" type="rss" htmlUrl="https://www.cnblogs.com/liangzilx/rss" xmlUrl="https://www.cnblogs.com/liangzilx/rss" />
 </outline>
-<outline text="e.编程" title="e.编程">
-<outline title="Interoperability Happens" type="rss" htmlUrl="http://blogs.tedneward.com/" xmlUrl="http://blogs.tedneward.com/SyndicationService.asmx/GetRss" text="Interoperability Happens" />
-<outline htmlUrl="http://alistapart.com/" type="rss" title="A List Apart: The Full Feed" text="A List Apart: The Full Feed" xmlUrl="https://alistapart.com/main/feed/" />
-<outline htmlUrl="http://lambda-the-ultimate.org/" xmlUrl="http://lambda-the-ultimate.org/rss.xml" type="rss" title="Lambda the Ultimate - Programming Languages Weblog" text="Lambda the Ultimate - Programming Languages Weblog" />
-<outline xmlUrl="http://www.ibm.com/developerworks/views/java/rss/libraryview.jsp" type="rss" text="IBM developerWorks : Java technology" title="IBM developerWorks : Java technology" htmlUrl="http://www.ibm.com/developerworks/" />
-<outline title="Madhukar's Blog" text="Madhukar's Blog" htmlUrl="http://blog.madhukaraphatak.com/" xmlUrl="http://blog.madhukaraphatak.com/feed.xml" type="rss" />
-<outline text="午夜咖啡" title="午夜咖啡" htmlUrl="http://jolestar.com/" xmlUrl="http://jolestar.com/feed.xml" type="rss" />
-<outline text="" title="" type="rss" htmlUrl="https://engineering.linkedin.com/blog" xmlUrl="https://engineering.linkedin.com/blog.rss" />
-<outline title="Haoyi's Programming Blog" text="Haoyi's Programming Blog" htmlUrl="http://www.lihaoyi.com/" type="rss" xmlUrl="http://www.lihaoyi.com/feed.xml" />
-<outline title="iTimothy" type="rss" htmlUrl="https://xiaozhou.net/" xmlUrl="https://www.xiaozhou.net/atom.xml" text="iTimothy" />
-<outline xmlUrl="https://jimmysong.io/index.xml" type="rss" htmlUrl="https://jimmysong.io/" title="Jimmy Song" text="Jimmy Song" />
-<outline htmlUrl="https://diygod.me/" xmlUrl="https://diygod.me/atom.xml" title="Hi, DIYgod" type="rss" text="Hi, DIYgod" />
-<outline type="rss" htmlUrl="https://tlanyan.me/" text="tlanyan" title="tlanyan" xmlUrl="https://tlanyan.me/feed/" />
-<outline text="博客园_静默虚空" htmlUrl="https://www.cnblogs.com/jingmoxukong/rss" type="rss" xmlUrl="https://www.cnblogs.com/jingmoxukong/rss" title="博客园_静默虚空" />
-<outline text="沉思录" title="沉思录" type="rss" htmlUrl="http://www.cyhone.com/" xmlUrl="https://www.cyhone.com/atom.xml" />
-<outline title="马树菌的博客驿站" htmlUrl="http://lesliewong.cn/" type="rss" xmlUrl="https://www.lesliewong.cn/atom.xml" text="马树菌的博客驿站" />
-<outline htmlUrl="https://ricstudio.top/" xmlUrl="https://ricstudio.top/atom.xml" type="rss" text="Richard Code Studio" title="Richard Code Studio" />
-<outline title="flydean的博客.程序那些事" type="rss" text="flydean的博客.程序那些事" htmlUrl="http://www.flydean.com/" xmlUrl="http://www.flydean.com/feed/" />
-<outline htmlUrl="https://binarylife.icu/" xmlUrl="https://binarylife.icu/feed" type="rss" text="二进制之路" title="二进制之路" />
-<outline htmlUrl="https://leihao0.github.io/cn/" xmlUrl="https://leihao0.github.io/cn/atom.xml" title="LeiHao's Blog" type="rss" text="LeiHao's Blog" />
+<outline title="e.编程" text="e.编程">
+<outline type="rss" xmlUrl="https://alistapart.com/main/feed/" text="A List Apart: The Full Feed" title="A List Apart: The Full Feed" htmlUrl="http://alistapart.com/" />
+<outline title="Lambda the Ultimate - Programming Languages Weblog" text="Lambda the Ultimate - Programming Languages Weblog" xmlUrl="http://lambda-the-ultimate.org/rss.xml" type="rss" htmlUrl="http://lambda-the-ultimate.org/" />
+<outline text="Madhukar's Blog" title="Madhukar's Blog" xmlUrl="http://blog.madhukaraphatak.com/feed.xml" htmlUrl="http://blog.madhukaraphatak.com/" type="rss" />
+<outline title="" text="" xmlUrl="https://engineering.linkedin.com/blog.rss" type="rss" htmlUrl="https://engineering.linkedin.com/blog" />
+<outline xmlUrl="http://www.lihaoyi.com/feed.xml" title="Haoyi's Programming Blog" htmlUrl="http://www.lihaoyi.com/" text="Haoyi's Programming Blog" type="rss" />
+<outline type="rss" title="iTimothy" htmlUrl="https://xiaozhou.net/" text="iTimothy" xmlUrl="https://www.xiaozhou.net/atom.xml" />
+<outline xmlUrl="https://tech.youzan.com/rss/" title="有赞技术团队" type="rss" text="有赞技术团队" htmlUrl="http://tech.youzan.com/" />
+<outline title="Hi, DIYgod" text="Hi, DIYgod" type="rss" xmlUrl="https://diygod.me/atom.xml" htmlUrl="https://diygod.me/" />
+<outline type="rss" xmlUrl="https://tlanyan.me/feed/" title="tlanyan" htmlUrl="https://tlanyan.me/" text="tlanyan" />
+<outline htmlUrl="https://dongwm.com/www.dongwm.com" xmlUrl="https://dongwm.com/atom.xml" text="小明明s à domicile" title="小明明s à domicile" type="rss" />
+<outline htmlUrl="http://www.cyhone.com/" xmlUrl="https://www.cyhone.com/atom.xml" title="沉思录" type="rss" text="沉思录" />
+<outline htmlUrl="http://lesliewong.cn/" title="马树菌的博客驿站" xmlUrl="https://www.lesliewong.cn/atom.xml" text="马树菌的博客驿站" type="rss" />
+<outline htmlUrl="https://ricstudio.top/" text="Richard Code Studio" type="rss" xmlUrl="https://ricstudio.top/atom.xml" title="Richard Code Studio" />
+<outline htmlUrl="https://binarylife.icu/" text="二进制之路" xmlUrl="https://binarylife.icu/feed" title="二进制之路" type="rss" />
+<outline title="LeiHao's Blog" htmlUrl="https://leihao0.github.io/cn/" xmlUrl="https://leihao0.github.io/cn/atom.xml" type="rss" text="LeiHao's Blog" />
+<outline text="伴鱼技术团队" type="rss" htmlUrl="https://tech.ipalfish.com/blog/" xmlUrl="https://tech.ipalfish.com/blog/atom.xml" title="伴鱼技术团队" />
+<outline title="Escape" text="Escape" htmlUrl="https://escapelife.github.io/" type="rss" xmlUrl="https://www.escapelife.site/atom.xml" />
 </outline>
-<outline title="f.候选" text="f.候选">
-<outline type="rss" title="TIME" htmlUrl="http://time.com/" xmlUrl="http://rss.time.com/web/time/rss/top/index.xml" text="TIME" />
-<outline xmlUrl="http://blog.codingnow.com/atom.xml" text="云风的 BLOG" type="rss" title="云风的 BLOG" htmlUrl="http://blog.codingnow.com/" />
-<outline text="IBM developerWorks 中国 : 文档库" title="IBM developerWorks 中国 : 文档库" type="rss" htmlUrl="http://www.ibm.com/developerworks/cn/" xmlUrl="http://www.ibm.com/developerworks/cn/rss/dwcn_dwtp.rss" />
-<outline title="土木坛子" type="rss" text="土木坛子" htmlUrl="https://tumutanzi.com/" xmlUrl="https://tumutanzi.com/feed" />
-<outline text="Blog of Insanity (狂人日記)" title="Blog of Insanity (狂人日記)" htmlUrl="http://paulsin.blogspot.com/" type="rss" xmlUrl="http://paulsin.blogspot.com/feeds/posts/default" />
-<outline text="Chiphell - 分享与交流用户体验的最佳平台 - 败家Show" title="Chiphell - 分享与交流用户体验的最佳平台 - 败家Show" htmlUrl="http://www.chiphell.com/forum-65-1.html" xmlUrl="http://www.chiphell.com/forum.php?mod=rss&amp;fid=65&amp;auth=0" type="rss" />
-<outline text="Wenson的隨筆網站" title="Wenson的隨筆網站" type="rss" htmlUrl="http://wensonyeh.blogspot.com/" xmlUrl="http://wensonyeh.blogspot.com/feeds/posts/default" />
-<outline htmlUrl="https://www.v2ex.com/" title="V2EX - 创意" xmlUrl="https://www.v2ex.com/feed/tab/creative.xml" type="rss" text="V2EX - 创意" />
-<outline title="SegmentFault 最新的文章" htmlUrl="https://segmentfault.com/blogs" type="rss" xmlUrl="https://segmentfault.com/feeds/blogs" text="SegmentFault 最新的文章" />
-<outline title="Chiphell - 分享与交流用户体验的最佳平台 - 评测" htmlUrl="https://www.chiphell.com/portal.php?mod=list&amp;catid=1" text="Chiphell - 分享与交流用户体验的最佳平台 - 评测" type="rss" xmlUrl="https://www.chiphell.com/portal.php?mod=rss&amp;catid=1" />
-<outline title="Chiphell - 分享与交流用户体验的最佳平台 - 设备Show" htmlUrl="https://www.chiphell.com/forum-242-1.html" xmlUrl="https://www.chiphell.com/forum.php?mod=rss&amp;fid=242&amp;auth=0" type="rss" text="Chiphell - 分享与交流用户体验的最佳平台 - 设备Show" />
-<outline text="The Team at X - Medium" type="rss" title="The Team at X - Medium" htmlUrl="https://blog.x.company/?source=rss----e41678be55e9---4" xmlUrl="https://blog.x.company/feed" />
-<outline xmlUrl="http://feedmaker.kindle4rss.com/feeds/wallstreetcn.weixin.xml" type="rss" title="华尔街见闻" text="华尔街见闻" htmlUrl="http://yiding.9.cn/ac/142" />
-<outline type="rss" title="Mobile01 影音新聞" text="Mobile01 影音新聞" xmlUrl="https://www.mobile01.com/rss/categorynews12.xml" htmlUrl="https://www.mobile01.com/newsarchive.php" />
-<outline htmlUrl="http://www.iplaysoft.com/" title="异次元软件世界" text="异次元软件世界" xmlUrl="https://feed.iplaysoft.com/" type="rss" />
-<outline htmlUrl="https://hk.appledaily.com/" type="rss" text="苹果日报" xmlUrl="https://feedx.net/rss/appledaily.xml" title="苹果日报" />
-<outline text="杜思妥，也乎？斯記。" xmlUrl="https://dostoe.blogspot.com/feeds/posts/default" htmlUrl="https://dostoe.blogspot.com/" type="rss" title="杜思妥，也乎？斯記。" />
-<outline type="rss" text="腾讯CDC" xmlUrl="https://cdc.tencent.com/feed/" title="腾讯CDC" htmlUrl="https://cdc.tencent.com/" />
-<outline xmlUrl="https://keelii.com/atom.xml" type="rss" text="Something" title="Something" htmlUrl="https://keelii.com/" />
-<outline text="觉论" htmlUrl="http://blog.ryouissei.com/" title="觉论" xmlUrl="https://blog.ryouissei.com/atom.xml" type="rss" />
-<outline text="Hypercritical" type="rss" title="Hypercritical" htmlUrl="http://hypercritical.co/" xmlUrl="https://hypercritical.co/feeds/main" />
-<outline xmlUrl="https://feeds.simplecast.com/JGE3yC0V" text="a16z Podcast" htmlUrl="https://www.listennotes.com/podcasts/a16z-podcast-andreessen-horowitz-IWF2alEr-9h/" type="rss" title="a16z Podcast" />
-<outline xmlUrl="https://biopolyhedron.github.io/atom.xml" text="polyhedron" type="rss" title="polyhedron" htmlUrl="https://biopolyhedron.github.io/" />
-<outline title="壹车志汽车网" type="rss" htmlUrl="http://www.yichezhi.com/" text="壹车志汽车网" xmlUrl="http://www.yichezhi.com/feed/" />
-<outline type="rss" htmlUrl="http://qnmlgb.tech/v1/recommend/rss" xmlUrl="https://qnmlgb.tech/v1/recommend/rss" title="瓦斯阅读每日推荐" text="瓦斯阅读每日推荐" />
+<outline text="f.候选" title="f.候选">
+<outline type="rss" xmlUrl="http://paulsin.blogspot.com/feeds/posts/default" title="Blog of Insanity (狂人日記)" text="Blog of Insanity (狂人日記)" htmlUrl="http://paulsin.blogspot.com/" />
+<outline type="rss" htmlUrl="http://wensonyeh.blogspot.com/" xmlUrl="http://wensonyeh.blogspot.com/feeds/posts/default" text="Wenson的隨筆網站" title="Wenson的隨筆網站" />
+<outline text="Company Blog – Databricks" title="Company Blog – Databricks" type="rss" htmlUrl="https://databricks.com/" xmlUrl="https://databricks.com/blog/category/company/feed" />
+<outline text="The Team at X - Medium" type="rss" xmlUrl="https://blog.x.company/feed" title="The Team at X - Medium" htmlUrl="https://blog.x.company/?source=rss----e41678be55e9---4" />
+<outline xmlUrl="http://www.hket.com/rss/china" type="rss" htmlUrl="http://china.hket.com/" title="兩岸新聞RSS - 香港經濟日報 hket.com" text="兩岸新聞RSS - 香港經濟日報 hket.com" />
+<outline type="rss" title="财新网" text="财新网" htmlUrl="http://chuansong.me/account/caixinwang" xmlUrl="http://feedmaker.kindle4rss.com/feeds/caixinwang.weixin.xml" />
+<outline htmlUrl="http://www.iplaysoft.com/" title="异次元软件世界" type="rss" xmlUrl="https://feed.iplaysoft.com/" text="异次元软件世界" />
+<outline xmlUrl="http://feedmaker.kindle4rss.com/feeds/ScientificAmerican.weixin.xml" title="环球科学" type="rss" text="环球科学" htmlUrl="http://www.jintiankansha.me/column/HEggKaocwN" />
+<outline type="rss" xmlUrl="https://dostoe.blogspot.com/feeds/posts/default" title="杜思妥，也乎？斯記。" htmlUrl="https://dostoe.blogspot.com/" text="杜思妥，也乎？斯記。" />
+<outline xmlUrl="https://keelii.com/atom.xml" htmlUrl="https://keelii.com/" title="Something" text="Something" type="rss" />
+<outline title="热门文章 - 人人都是产品经理" htmlUrl="http://www.woshipm.com/" xmlUrl="https://rsshub.app/woshipm/popular" type="rss" text="热门文章 - 人人都是产品经理" />
+<outline type="rss" title="AI研习社" htmlUrl="https://ai.yanxishe.com/" xmlUrl="https://rsshub.app/aiyanxishe/109/hot" text="AI研习社" />
+<outline title="人大经济论坛" type="rss" htmlUrl="https://bbs.pinggu.org/forum.php" xmlUrl="https://bbs.pinggu.org/forum.php?mod=rss&amp;auth=0" text="人大经济论坛" />
+<outline xmlUrl="https://rsshub.app/blogs/wangyin" text="王垠的博客 - 当然我在扯淡" type="rss" htmlUrl="https://www.yinwang.org/" title="王垠的博客 - 当然我在扯淡" />
+<outline xmlUrl="https://hypercritical.co/feeds/main" text="Hypercritical" type="rss" htmlUrl="http://hypercritical.co/" title="Hypercritical" />
+<outline type="rss" htmlUrl="https://biopolyhedron.github.io/" text="polyhedron" xmlUrl="https://biopolyhedron.github.io/atom.xml" title="polyhedron" />
+<outline type="rss" htmlUrl="https://cloudnative.to/blog/" title="博客 on Cloud Native Community" xmlUrl="https://cloudnative.to/blog/index.xml" text="博客 on Cloud Native Community" />
+<outline text="东西智库  – 专注中国制造业高质量发展" type="rss" title="东西智库  – 专注中国制造业高质量发展" htmlUrl="https://www.dx2025.com/" xmlUrl="https://rsshub.app/dx2025" />
+<outline title="Protocol — The people, power and politics of tech" htmlUrl="https://www.protocol.com/" xmlUrl="https://www.protocol.com/feeds/china.rss" text="Protocol — The people, power and politics of tech" type="rss" />
+<outline xmlUrl="https://rsshub.app/growincity/news" type="rss" htmlUrl="http://www.growincity.com/?page_id=11112&amp;qfyuuid=qfy_posts_grid_s6lpz&amp;q_term=48&amp;q_type=post" title="城农资讯观点 - 城农 Growin' City" text="城农资讯观点 - 城农 Growin' City" />
+<outline title="观察者网 - 评论 &amp; 研究" type="rss" xmlUrl="https://rsshub.app/guancha/review" text="观察者网 - 评论 &amp; 研究" htmlUrl="https://www.guancha.cn/" />
+<outline title="博客园_程序员内点事" text="博客园_程序员内点事" htmlUrl="https://www.cnblogs.com/chengxy-nds/rss" xmlUrl="https://www.cnblogs.com/chengxy-nds/rss" type="rss" />
+<outline xmlUrl="https://rss.donews.com/rss/rss.xml" text="donews" htmlUrl="https://www.donews.com/" title="donews" type="rss" />
+<outline htmlUrl="https://www.zhihu.com/column/c_128579185" xmlUrl="https://rsshub.app/zhihu/zhuanlan/c_128579185" text="知乎专栏-阿里大数据玩家" type="rss" title="知乎专栏-阿里大数据玩家" />
 </outline>
 <outline title="g.走马观花" text="g.走马观花">
-<outline type="rss" text="设计癖" title="设计癖" htmlUrl="http://www.shejipi.com/" xmlUrl="http://www.shejipi.com/feed/" />
-<outline htmlUrl="http://www.chiphell.com/portal.php?mod=list&amp;catid=45" type="rss" text="Chiphell - 分享与交流用户体验的最佳平台 - 品质生活" title="Chiphell - 分享与交流用户体验的最佳平台 - 品质生活" xmlUrl="http://www.chiphell.com/portal.php?mod=rss&amp;catid=45" />
+<outline type="rss" htmlUrl="http://cn.nytimes.com/" title="c_纽约时报中文网" xmlUrl="http://feeds.feedburner.com/nytcn" text="c_纽约时报中文网" />
+<outline type="rss" text="Chiphell - 分享与交流用户体验的最佳平台 - 品质生活" title="Chiphell - 分享与交流用户体验的最佳平台 - 品质生活" htmlUrl="http://www.chiphell.com/portal.php?mod=list&amp;catid=45" xmlUrl="http://www.chiphell.com/portal.php?mod=rss&amp;catid=45" />
 <outline type="rss" htmlUrl="http://www.chiphell.com/portal.php?mod=list&amp;catid=46" xmlUrl="http://www.chiphell.com/portal.php?mod=rss&amp;catid=46" text="Chiphell - 分享与交流用户体验的最佳平台 - 数码前沿" title="Chiphell - 分享与交流用户体验的最佳平台 - 数码前沿" />
-<outline text="Mac玩儿法" xmlUrl="http://www.waerfa.com/feed" htmlUrl="http://www.waerfa.com/" type="rss" title="Mac玩儿法" />
-<outline title="Chiphell - 分享与交流用户体验的最佳平台 - 收藏爱好" type="rss" xmlUrl="http://www.chiphell.com/portal.php?mod=rss&amp;catid=47" htmlUrl="http://www.chiphell.com/portal.php?mod=list&amp;catid=47" text="Chiphell - 分享与交流用户体验的最佳平台 - 收藏爱好" />
-<outline title="c_BBC Chinese - 新闻主页" type="rss" text="c_BBC Chinese - 新闻主页" xmlUrl="http://feeds.bbci.co.uk/zhongwen/simp/rss.xml" htmlUrl="http://www.bbcchinese.com/" />
-<outline title="3dmgame" htmlUrl="http://www.3dmgame.com/" xmlUrl="https://feedx.net/rss/3dmgame.xml" text="3dmgame" type="rss" />
-<outline title="V2EX-最新主题" type="rss" htmlUrl="https://www.v2ex.com/" xmlUrl="https://rsshub.app/v2ex/topics/latest" text="V2EX-最新主题" />
-<outline title="同济大学软件学院" type="rss" htmlUrl="http://sse.tongji.edu.cn/data/list/xwdt" xmlUrl="https://rsshub.app/tju/sse/xwdt" text="同济大学软件学院" />
-<outline text="福利资源-met.red" title="福利资源-met.red" type="rss" xmlUrl="https://rsshub.app/metred/fuli" htmlUrl="https://met.red/h/weal/list#" />
-<outline text="白鲸出海" xmlUrl="https://rsshub.app/baijing" type="rss" title="白鲸出海" htmlUrl="https://docs.rsshub.app/" />
-<outline xmlUrl="https://rsshub.app/ifanr/category-intelligentcar%20#%E5%B7%B4%E6%AF%94%E7%89%B9" text="iFanr - 董车会：我们只看得到汽车的前沿和未来" title="iFanr - 董车会：我们只看得到汽车的前沿和未来" htmlUrl="https://www.ifanr.com/category/intelligentcar%20#%E5%B7%B4%E6%AF%94%E7%89%B9" type="rss" />
+<outline text="Chiphell - 分享与交流用户体验的最佳平台 - 收藏爱好" type="rss" title="Chiphell - 分享与交流用户体验的最佳平台 - 收藏爱好" htmlUrl="http://www.chiphell.com/portal.php?mod=list&amp;catid=47" xmlUrl="http://www.chiphell.com/portal.php?mod=rss&amp;catid=47" />
+<outline text="3dmgame" title="3dmgame" htmlUrl="http://www.3dmgame.com/" type="rss" xmlUrl="https://feedx.net/rss/3dmgame.xml" />
+<outline title="同济大学软件学院" type="rss" text="同济大学软件学院" htmlUrl="http://sse.tongji.edu.cn/data/list/xwdt" xmlUrl="https://rsshub.app/tju/sse/xwdt" />
 </outline>
 <outline text="其他" title="其他">
-<outline type="rss" text="Yanko Design" title="Yanko Design" htmlUrl="http://www.yankodesign.com/" xmlUrl="http://www.yankodesign.com/feed/" />
-<outline title="The Information" htmlUrl="https://www.theinformation.com/" xmlUrl="https://www.theinformation.com/feed" type="rss" text="The Information" />
-<outline htmlUrl="http://colachan.com/" xmlUrl="http://colachan.com/feed" text="可乐橙" type="rss" title="可乐橙" />
-<outline type="rss" title="兩岸新聞RSS - 香港經濟日報 hket.com" text="兩岸新聞RSS - 香港經濟日報 hket.com" htmlUrl="http://china.hket.com/" xmlUrl="http://www.hket.com/rss/china" />
-<outline htmlUrl="https://feedx.net/rss/investing.xml" title="Investing.com" xmlUrl="https://feedx.net/rss/investing.xml" text="Investing.com" type="rss" />
-<outline type="rss" title="董路的微博" htmlUrl="http://weibo.com/1189615035/" text="董路的微博" xmlUrl="https://rsshub.app/weibo/user/1189615035" />
-<outline title="热门文章 - 人人都是产品经理" text="热门文章 - 人人都是产品经理" type="rss" htmlUrl="http://www.woshipm.com/" xmlUrl="https://rsshub.app/woshipm/popular" />
-<outline type="rss" text="染色体工作室作品集" htmlUrl="http://changba.com/u/106916800" title="染色体工作室作品集" xmlUrl="https://rsshub.app/changba/106916800" />
-<outline xmlUrl="https://medium.com/feed/@chuantangfeng" text="Stories by 穿堂风 on Medium" title="Stories by 穿堂风 on Medium" htmlUrl="https://medium.com/@chuantangfeng?source=rss-adae68dfd7a9------2" type="rss" />
+<outline title="The Verge" type="rss" text="The Verge" htmlUrl="http://www.theverge.com/" xmlUrl="http://www.theverge.com/rss/index.xml" />
+<outline xmlUrl="http://www.thetruthaboutcars.com/?feed=rss2" title="The Truth About Cars" type="rss" text="The Truth About Cars" htmlUrl="http://www.thetruthaboutcars.com/" />
+<outline text="BBC News" type="rss" title="BBC News" htmlUrl="https://www.bbc.com" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml" />
+<outline xmlUrl="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml" text="The New York Times" title="The New York Times" type="rss" htmlUrl="http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss" />
+<outline title="MakeUseOf" text="MakeUseOf" type="rss" htmlUrl="https://www.makeuseof.com" xmlUrl="https://www.makeuseof.com/feed/" />
+<outline htmlUrl="http://www.yankodesign.com/" title="Yanko Design" type="rss" xmlUrl="http://www.yankodesign.com/feed/" text="Yanko Design" />
+<outline xmlUrl="https://feeds.a.dj.com/rss/RSSWorldNews.xml" htmlUrl="http://online.wsj.com/page/2_0006.html" text="WSJ.com: World News" type="rss" title="WSJ.com: World News" />
+<outline title="SeekingAlpha.com: Home Page" xmlUrl="http://www.seekingalpha.com/feed.xml" type="rss" text="SeekingAlpha.com: Home Page" htmlUrl="http://seekingalpha.com/" />
+<outline title="Forbes - Business" text="Forbes - Business" type="rss" htmlUrl="http://www.forbes.com/business/feed2/" xmlUrl="http://www.forbes.com/business/index.xml" />
+<outline text="World Soccer Talk" type="rss" title="World Soccer Talk" xmlUrl="http://feeds.feedburner.com/EPLTalk" htmlUrl="http://worldsoccertalk.com/" />
+<outline text="CNBC.com - Stock Market Headlines" xmlUrl="http://www.cnbc.com/id/15839215/device/rss/rss.html" type="rss" htmlUrl="http://www.cnbc.com/id/15839215" title="CNBC.com - Stock Market Headlines" />
+<outline title="The Information" xmlUrl="https://www.theinformation.com/feed" text="The Information" type="rss" htmlUrl="https://www.theinformation.com/" />
+<outline type="rss" htmlUrl="https://feedx.net/rss/investing.xml" title="Investing.com" text="Investing.com" xmlUrl="https://feedx.net/rss/investing.xml" />
+<outline xmlUrl="http://news.google.com/news?hl=en&amp;gl=us&amp;q=hadoop&amp;um=1&amp;ie=UTF-8&amp;output=rss" title="hadoop - Google News" text="hadoop - Google News" type="rss" htmlUrl="https://news.google.com/news?hl=en&amp;gl=us&amp;pz=1&amp;ned=us&amp;q=hadoop" />
 </outline>
 </body>
 </opml>
