@@ -38,3 +38,7 @@
 ## Kafka
 
 [apache kafka技术分享系列](https://blog.csdn.net/lizhitao/article/details/39499283)
+
+## 分布式
+[凤凰架构](https://icyfenix.cn/)
+>所以，既然我们要开始一段关于“Phoenix”的架构讨论与代码实践，那便叫它“凤凰架构”，如何？
