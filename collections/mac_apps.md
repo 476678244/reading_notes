@@ -18,3 +18,7 @@
 
 [flomo](https://help.flomoapp.com/)
 >http://www.geekpark.net/news/283094
+
+## 隐私保护
+
+[12 款简单好用的保护隐私的软件](https://linux.cn/article-14337-1.html)
