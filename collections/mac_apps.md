@@ -11,6 +11,9 @@
 [HandBrake](https://handbrake.fr/rotation.php?file=HandBrake-1.5.1.dmg)
 >The open source video transcoder
 
+[alfred-workflows](https://github.com/alanhg/alfred-workflows/blob/master/README-zh.md)
+>劳动重复即是体力活，so需要以工具来做自动化处理，节约生命。
+
 ## Shell
 
 [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
