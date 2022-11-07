@@ -27,3 +27,8 @@
 ## 隐私保护
 
 [12 款简单好用的保护隐私的软件](https://linux.cn/article-14337-1.html)
+
+## 壁纸
+
+[苹果 iPhone 拆机壁纸](https://basicappleguy.com/basicappleblog/iphone-13-pro-schematic)
+>找到几组苹果 iPhone 拆机壁纸，让手机屏幕点亮时有「手机主板直接露出来」的效果，还挺酷的。
