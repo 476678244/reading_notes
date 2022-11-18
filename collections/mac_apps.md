@@ -32,3 +32,8 @@
 
 [苹果 iPhone 拆机壁纸](https://basicappleguy.com/basicappleblog/iphone-13-pro-schematic)
 >找到几组苹果 iPhone 拆机壁纸，让手机屏幕点亮时有「手机主板直接露出来」的效果，还挺酷的。
+
+## 界面
+
+[Aqua Menu Bar](https://www.v2ex.com/t/892877#reply0)
+>如果你不喜欢 Big Sur 以后的扁平，低对比度的菜单栏，Aqua Menu Bar.app 可以让你用回经典的 Mac 菜单栏
