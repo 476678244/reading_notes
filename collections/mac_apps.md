@@ -37,3 +37,8 @@
 
 [Aqua Menu Bar](https://www.v2ex.com/t/892877#reply0)
 >如果你不喜欢 Big Sur 以后的扁平，低对比度的菜单栏，Aqua Menu Bar.app 可以让你用回经典的 Mac 菜单栏
+
+## 捷径
+
+[一键把苹果 iPhone 上看到的文章保存成 PDF ](https://www.mac52ipod.cn/post/apple-iphone-ios-shortcuts-archive-it-save-webpage-to-pdf.php)
+>苹果 iPhone 用户可以试试这个叫 Archive It 的捷径，只要 App 支持苹果 iOS 的分享功能，就可以在分享面板里找到 Archive It 选项，把文章保存成 PDF。如果是微信公众号文章，请先选择在浏览器里打开文章，再从浏览器里点击分享按钮调出 Archive It 选项。
