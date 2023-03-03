@@ -14,6 +14,8 @@
 [alfred-workflows](https://github.com/alanhg/alfred-workflows/blob/master/README-zh.md)
 >劳动重复即是体力活，so需要以工具来做自动化处理，节约生命。
 
+[运行 App Store 里搜不到的 iOS 软件](https://www.youtube.com/watch?v=Juf08wiTkaQ&ab_channel=Mac%E4%BA%91%E8%AF%BE%E5%A0%82)
+
 ## Shell
 
 [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
