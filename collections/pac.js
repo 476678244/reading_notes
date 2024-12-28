@@ -1,0 +1,95 @@
+var FindProxyForURL = function(init, profiles) {
+    return function(url, host) {
+        "use strict";
+        var result = init, scheme = url.substr(0, url.indexOf(":"));
+        do {
+            result = profiles[result];
+            if (typeof result === "function") result = result(url, host, scheme);
+        } while (typeof result !== "string" || result.charCodeAt(0) === 43);
+        return result;
+    };
+}("+ChromeAuto", {
+    "+ChromeAuto": function(url, host, scheme) {
+        "use strict";
+        if (/(?:^|\.)globalsharesequity\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)yankodesign\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)nikkei\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)openai\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)huggingface\.co$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)typora\.io/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)zhihu\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)kujiale\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)duckduckgo\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)rss404\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)rsshub\.app$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)google\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)torproject\.org$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)brave\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)startpage\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)baidu\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)github\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)githubassets\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)bilibili\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)google-analytics\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)patreon\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)amplitude\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)patreonusercontent\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)tiktok\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)getvisionapp\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)0x0fff\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)gstatic\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)gravatar\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)outofmemory\.cn$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)buff\.ly$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)youtube\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)eniu\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)go-vip\.co$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)notion\.so$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)yimg\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)reddit\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)yahoo\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)iqiyi\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)googlevideo\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)liantu\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)javakk\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)t\.co$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)raw\.githubusercontent\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)medium\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)cnblogs\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)linkedin\.cn/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)substack\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)steampowered\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)twimg\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)twitter\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)inoreader\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)wsj\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)telegram\.org$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)t\.me$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)v2ex\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)google\.com\.hk$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)zendesk\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)logi\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)diygod\.me$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)zybuluo\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)doubleclick\.net$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)wikipedia\.org$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)roccat\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)233v2\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)gmail\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)spotify\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)koolcenter\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)bmpi\.dev$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)qnssl\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)ytimg\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)ggpht\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)instagram\.com$/.test(host)) return "+V2rayX";
+        if (/google/.test(url)) return "+V2rayX";
+        if (/youtube/.test(url)) return "+V2rayX";
+        return "DIRECT";
+    },
+    "+V2rayX": function(url, host, scheme) {
+        "use strict";
+        if (/^127\.0\.0\.1$/.test(host) || /^::1$/.test(host) || /^localhost$/.test(host)) return "DIRECT";
+        return "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081";
+    }
+});
