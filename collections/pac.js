@@ -13,7 +13,10 @@ var FindProxyForURL = function(init, profiles) {
         "use strict";
         if (/(?:^|\.)globalsharesequity\.com$/.test(host)) return "DIRECT";
         if (/(?:^|\.)yankodesign\.com$/.test(host)) return "DIRECT";
+        if (/(?:^|\.)slashdot\.com$/.test(host)) return "+V2rayX";
         if (/(?:^|\.)nikkei\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)waymo\.com$/.test(host)) return "+V2rayX";
+        if (/(?:^|\.)chatgpt\.com$/.test(host)) return "+V2rayX";
         if (/(?:^|\.)openai\.com$/.test(host)) return "+V2rayX";
         if (/(?:^|\.)huggingface\.co$/.test(host)) return "+V2rayX";
         if (/(?:^|\.)typora\.io/.test(host)) return "+V2rayX";
