@@ -1,3 +1,7 @@
+### Chrome
+
+[DarkBili - Dark Mode for bilibili.com](https://chromewebstore.google.com/detail/darkbili-dark-mode-for-bi/kpjklikhldpeiibfhadeogaaeenhffba)
+
 ### 鼠标
 [Linehouse](https://linearmouse.cn/)
 
