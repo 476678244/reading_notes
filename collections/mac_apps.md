@@ -1,3 +1,7 @@
+## Fonts
+
+[Maple Mono](https://github.com/subframe7536/maple-font)
+
 ### Chrome
 
 [DarkBili - Dark Mode for bilibili.com](https://chromewebstore.google.com/detail/darkbili-dark-mode-for-bi/kpjklikhldpeiibfhadeogaaeenhffba)
