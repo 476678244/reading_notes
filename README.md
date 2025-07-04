@@ -1,5 +1,4 @@
 # reading_notes
-- 攻略集合
 - 读书笔记
-- RSS 组合
-- To-Read List
+- RSS 列表
+- [浏览器插件](collections/browser_extensions.md)
