@@ -9,6 +9,7 @@
 ## Tools
 
 [启动页插件](https://sspai.com/post/75591)
+- [Itab]((https://itab.link)
 
 [沉浸式翻译](https://immersivetranslate.com/zh-Hans/)
 
