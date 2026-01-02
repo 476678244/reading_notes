@@ -13,3 +13,4 @@
 
 [沉浸式翻译](https://immersivetranslate.com/zh-Hans/)
 
+[网页全屏(Fullscreen Anything)](https://chromewebstore.google.com/detail/fullscreen-anything/olcfgpmjldkkjdclidhcbonieibfhhdh)
